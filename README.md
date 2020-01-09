@@ -10,6 +10,11 @@ Un blog increible para el[ curso de Git y Github](https://platzi.com/cursos/git-
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creando cherry-picks con Platzi
+<<<<<<< HEAD
+=======
+* incluye ejm en windows linux y mac
+* disponible para todas las edades
+>>>>>>> readmeMejorado
 
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas aca NO TE LO TOMES [EN SERIO](https://emojipedia.org/smiling-face-with-smiling-eyes/ "EN SERIO") y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
