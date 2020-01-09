@@ -1,4 +1,7 @@
 Hola intento aprender git xdxd 
 vamo a reemplazar a ver que pasa
 EXPERIMENTO 1
-MASTER 1MASTER 2
+EXPERIMENTO 2
+MASTER 1
+MASTER 2
+
